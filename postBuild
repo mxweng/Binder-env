@@ -1,1 +1,2 @@
 python -m ipykernel install --user --name=wmx
+jupyter serverextension enable --py nbgitpuller --sys-prefix
